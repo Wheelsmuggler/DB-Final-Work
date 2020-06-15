@@ -1,0 +1,40 @@
+a.data:002b.data:001
+a.data:003b.data:002
+a.data:004b.data:003
+a.data:005b.data:004
+a.data:006b.data:005
+a.data:007b.data:006
+a.data:008b.data:007
+a.data:009	b.data:008
+a.data:010
+b.data:009
+001 85 80
+a.data:001b.data:001
+a.data:002b.data:001
+002 90 91
+a.data:002b.data:002
+a.data:003b.data:002
+003 75 80
+a.data:003b.data:003
+a.data:004b.data:003
+004 60 80
+a.data:004b.data:004
+a.data:005b.data:004
+005 73 70
+a.data:005b.data:005
+a.data:006b.data:005
+006 86 89
+a.data:006b.data:006
+a.data:007b.data:006
+007 68 70
+a.data:007b.data:007
+a.data:008b.data:007
+008 88 90
+a.data:008b.data:008
+a.data:009b.data:008
+009 85 88
+a.data:009	b.data:009
+a.data:010b.data:009
+010 94 95
+a.data:010
+b.data:010

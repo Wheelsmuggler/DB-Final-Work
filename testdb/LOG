@@ -1,0 +1,4 @@
+2020/04/04-22:56:28.421208 0x11654fdc0 Recovering log #104
+2020/04/04-22:56:28.422895 0x11654fdc0 (ignoring error) testdb/000104.log: dropping 537 bytes; Corruption: checksum mismatch
+2020/04/04-22:56:28.463632 0x11654fdc0 Delete type=3 #102
+2020/04/04-22:56:28.463674 0x11654fdc0 Delete type=0 #104
